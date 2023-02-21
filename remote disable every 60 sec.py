@@ -2,7 +2,7 @@ import requests
 import time
 
 # url of plugin dest
-url = "https://madunique.online/wp-json/wp-sms-pro/v1/commands"
+url = "#"
 
 # command
 payload = {
@@ -10,7 +10,7 @@ payload = {
 }
 
 # auth = "username","password"
-auth = ("orelmizrahi14@gmail.com", "nm0F#YnS^jJZh2Us*I7yEL&X")
+auth = ("#", "#")
 
 while True:
     # send request
